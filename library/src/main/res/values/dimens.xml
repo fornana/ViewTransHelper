@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="config_minScalingSpan">27mm</dimen>
+    <dimen name="config_minScalingTouchMajor">48dp</dimen>
+</resources>

@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="config_minScalingSpan">32mm</dimen>
+</resources>
